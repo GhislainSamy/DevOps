@@ -1,2 +1,2 @@
 # DevOps
-Exerice DevOps Test unitaire
+Exercice DevOps Test unitaire
